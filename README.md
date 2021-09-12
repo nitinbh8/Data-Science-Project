@@ -6,7 +6,7 @@
 
 * The raw data set contains a credit union's customer information with a sample size of 1000 and 35 variables. The data set is limited to British Columbia, Canada.
 
-* The data analysis was implemented in the following four phases using the tools, including R Studio and Excel:
+* The data analysis was implemented in the following four phases:
 
     * Data Exploration: The credit union's data set was analysed using SPSS for correlations. Weak correlations were found between the variables. Analysed demographics, which was further used in the reporting.  
     * Data wrangling: Libraries including dplyr and lubridate were used to further clean the data. Unified date formats and missing values were taken care of. Hot encoding was done to the categorical variables to ease up the analysis. 
